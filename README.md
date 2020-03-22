@@ -6,4 +6,4 @@ This is a very simple example on how to dispatch actions to reducers and maintai
 
 run `npm install` then `npm start`
 
-![Barebones Example Screenshot](https://raw.githubusercontent.com/dukuo/redux-counter/branch/redux_counter.png)
+![Barebones Example Screenshot](redux_counter.png)
